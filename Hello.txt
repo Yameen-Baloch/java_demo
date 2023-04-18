@@ -1,5 +1,9 @@
 Hello World
+<<<<<<< HEAD
 
 New Branch
 this is very new branch
 hehbehbe
+=======
+hey
+>>>>>>> a860d00507d6f7cb6a3d5e2c951c3760a1d8d7fc
